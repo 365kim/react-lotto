@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gh-pages/static/css/main.bbc465f5.chunk.css",
-    "main.js": "/gh-pages/static/js/main.4a1fec54.chunk.js",
-    "main.js.map": "/gh-pages/static/js/main.4a1fec54.chunk.js.map",
-    "runtime-main.js": "/gh-pages/static/js/runtime-main.90f8d6aa.js",
-    "runtime-main.js.map": "/gh-pages/static/js/runtime-main.90f8d6aa.js.map",
-    "static/js/2.8004b9f1.chunk.js": "/gh-pages/static/js/2.8004b9f1.chunk.js",
-    "static/js/2.8004b9f1.chunk.js.map": "/gh-pages/static/js/2.8004b9f1.chunk.js.map",
-    "index.html": "/gh-pages/index.html",
-    "static/css/main.bbc465f5.chunk.css.map": "/gh-pages/static/css/main.bbc465f5.chunk.css.map",
-    "static/js/2.8004b9f1.chunk.js.LICENSE.txt": "/gh-pages/static/js/2.8004b9f1.chunk.js.LICENSE.txt"
+    "main.css": "/step1-deploy/static/css/main.bbc465f5.chunk.css",
+    "main.js": "/step1-deploy/static/js/main.4a1fec54.chunk.js",
+    "main.js.map": "/step1-deploy/static/js/main.4a1fec54.chunk.js.map",
+    "runtime-main.js": "/step1-deploy/static/js/runtime-main.6fe3d7e6.js",
+    "runtime-main.js.map": "/step1-deploy/static/js/runtime-main.6fe3d7e6.js.map",
+    "static/js/2.8004b9f1.chunk.js": "/step1-deploy/static/js/2.8004b9f1.chunk.js",
+    "static/js/2.8004b9f1.chunk.js.map": "/step1-deploy/static/js/2.8004b9f1.chunk.js.map",
+    "index.html": "/step1-deploy/index.html",
+    "static/css/main.bbc465f5.chunk.css.map": "/step1-deploy/static/css/main.bbc465f5.chunk.css.map",
+    "static/js/2.8004b9f1.chunk.js.LICENSE.txt": "/step1-deploy/static/js/2.8004b9f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.90f8d6aa.js",
+    "static/js/runtime-main.6fe3d7e6.js",
     "static/js/2.8004b9f1.chunk.js",
     "static/css/main.bbc465f5.chunk.css",
     "static/js/main.4a1fec54.chunk.js"
