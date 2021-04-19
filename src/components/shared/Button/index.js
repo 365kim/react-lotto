@@ -8,16 +8,12 @@ const cx = classNames.bind(styles);
 
 export default class Button extends Component {
   render() {
-    const { className, children, ...props } = this.props;
+    const { className, ...rest } = this.props;
     const buttonClass = cx({
       Button: true,
       [`${className}`]: true,
     });
 
-    return (
-      <button className={buttonClass} {...props}>
-        {children}
-      </button>
-    );
+    return <button className={buttonClass} {...rest} />;
   }
 }

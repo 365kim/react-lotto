@@ -4,7 +4,7 @@ import Lottie from 'react-lottie';
 
 export default class Animation extends Component {
   render() {
-    const { animationData, loop, ...others } = this.props;
+    const { animationData, loop, ...rest } = this.props;
 
     return (
       <Lottie
@@ -12,7 +12,7 @@ export default class Animation extends Component {
           animationData,
           loop,
         }}
-        {...others}
+        {...rest}
       />
     );
   }
